@@ -31,8 +31,6 @@ Download the new Spooni Spooner here to easy use the Props Houses and Stables
 
 https://github.com/i3ucky/spooni_spooner 
 
-then restart server. 
-
 Start Spooner under Spooni, you see the list of Spooni Houses, Stables and Props is now at the top. 
 
 It is important that all objects are in it, but of course only those that you have purchased will work.
