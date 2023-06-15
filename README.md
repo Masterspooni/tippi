@@ -21,9 +21,9 @@ Start Spooner or use the Free spooni_spooner
 
 If you have the normal Spooner open Objects List and type in the top the name tippi3
 
-than down spwan by name.
+than down spawn by name.
 
-Press E wait a moment and the Tippi spwan.
+Press E wait a moment and the Tippi spawn.
 
 ---------------------------------------------------------------------------
 
