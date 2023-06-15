@@ -19,7 +19,7 @@ Restart Server.
 
 Start Spooner or use the Free spooni_spooner
 
-If you have the normal Spooner open Objects List and typ in the top the name tippi3
+If you have the normal Spooner open Objects List and type in the top the name tippi3
 
 than down spwan by name.
 
