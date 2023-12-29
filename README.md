@@ -2,7 +2,7 @@ Welcome to Spooni Free Stuff for RDR2.
 ---------------------------------------
 We actually create any prop or houses or Mlo´s you want. 
 
-Ask us on Discord https://discord.gg/byASpSfwuk.
+Ask us on Discord [https://discord.gg/byASpSfwuk.](https://discord.gg/685uFw92Th)
 -------------------------------------------------------
 
 How is it installed?
@@ -40,7 +40,7 @@ You need Help for Ymaps or XML´s
 or you need to know how creat a doorhash for all doors.
 
 Instruction here:
-https://discord.gg/fYwkxpQSSU
+[https://discord.gg/fYwkxpQSSU](https://discord.gg/XA2wBV8fqP)https://discord.gg/XA2wBV8fqP
 
 
 have fun.
